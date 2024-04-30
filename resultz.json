@@ -4,12 +4,12 @@
   "numFailedTestSuites": 0,
   "numPendingTestSuites": 0,
   "numTotalTests": 9,
-  "numPassedTests": 0,
-  "numFailedTests": 9,
+  "numPassedTests": 9,
+  "numFailedTests": 0,
   "numPendingTests": 0,
   "numTodoTests": 0,
-  "startTime": 1714481769386,
-  "success": false,
+  "startTime": 1714490134704,
+  "success": true,
   "testResults": [
     {
       "assertionResults": [
@@ -18,151 +18,97 @@
             ""
           ],
           "fullName": " Favorileri Gizle butonu tıklanınca favori panelini gizliyor.",
-          "status": "failed",
+          "status": "passed",
           "title": "Favorileri Gizle butonu tıklanınca favori panelini gizliyor.",
-          "duration": 71,
-          "failureMessages": [
-            "store.getState is not a function"
-          ],
-          "location": {
-            "line": 1076,
-            "column": 51
-          }
+          "duration": 595,
+          "failureMessages": []
         },
         {
           "ancestorTitles": [
             ""
           ],
           "fullName": " Favorileri Gizle butonu tıklandıkça, metni Favorileri göster ve Favorileri gizle arasında değişiyor.",
-          "status": "failed",
+          "status": "passed",
           "title": "Favorileri Gizle butonu tıklandıkça, metni Favorileri göster ve Favorileri gizle arasında değişiyor.",
-          "duration": 17,
-          "failureMessages": [
-            "store.getState is not a function"
-          ],
-          "location": {
-            "line": 1076,
-            "column": 51
-          }
+          "duration": 218,
+          "failureMessages": []
         },
         {
           "ancestorTitles": [
             ""
           ],
           "fullName": " Tüm filmler ekranda gösteriliyor",
-          "status": "failed",
+          "status": "passed",
           "title": "Tüm filmler ekranda gösteriliyor",
-          "duration": 7,
-          "failureMessages": [
-            "store.getState is not a function"
-          ],
-          "location": {
-            "line": 1076,
-            "column": 51
-          }
+          "duration": 135,
+          "failureMessages": []
         },
         {
           "ancestorTitles": [
             ""
           ],
           "fullName": " Detay butonu film detaylarını gösteriyor.",
-          "status": "failed",
+          "status": "passed",
           "title": "Detay butonu film detaylarını gösteriyor.",
-          "duration": 8,
-          "failureMessages": [
-            "store.getState is not a function"
-          ],
-          "location": {
-            "line": 1076,
-            "column": 51
-          }
+          "duration": 197,
+          "failureMessages": []
         },
         {
           "ancestorTitles": [
             ""
           ],
           "fullName": " Film detayları sayfasında Favorilere Ekle butonu filmi favori listesine ekliyor",
-          "status": "failed",
+          "status": "passed",
           "title": "Film detayları sayfasında Favorilere Ekle butonu filmi favori listesine ekliyor",
-          "duration": 7,
-          "failureMessages": [
-            "store.getState is not a function"
-          ],
-          "location": {
-            "line": 1076,
-            "column": 51
-          }
+          "duration": 625,
+          "failureMessages": []
         },
         {
           "ancestorTitles": [
             ""
           ],
           "fullName": " Film detayları sayfasında Favorilere Ekle butonu filmi favori listesine 2. kez eklemiyor",
-          "status": "failed",
+          "status": "passed",
           "title": "Film detayları sayfasında Favorilere Ekle butonu filmi favori listesine 2. kez eklemiyor",
-          "duration": 5,
-          "failureMessages": [
-            "store.getState is not a function"
-          ],
-          "location": {
-            "line": 1076,
-            "column": 51
-          }
+          "duration": 1078,
+          "failureMessages": []
         },
         {
           "ancestorTitles": [
             ""
           ],
           "fullName": " sil butonu filmi siliyor ve tüm filmler sayfası açılıyor.",
-          "status": "failed",
+          "status": "passed",
           "title": "sil butonu filmi siliyor ve tüm filmler sayfası açılıyor.",
-          "duration": 10,
-          "failureMessages": [
-            "store.getState is not a function"
-          ],
-          "location": {
-            "line": 1076,
-            "column": 51
-          }
+          "duration": 452,
+          "failureMessages": []
         },
         {
           "ancestorTitles": [
             ""
           ],
           "fullName": " Yeni film ekleniyor ve tüm filmler sayfası açılıyor.",
-          "status": "failed",
+          "status": "passed",
           "title": "Yeni film ekleniyor ve tüm filmler sayfası açılıyor.",
-          "duration": 5,
-          "failureMessages": [
-            "store.getState is not a function"
-          ],
-          "location": {
-            "line": 1076,
-            "column": 51
-          }
+          "duration": 3933,
+          "failureMessages": []
         },
         {
           "ancestorTitles": [
             ""
           ],
           "fullName": " AddMovieForm componentinde preventDefault kullanılmış",
-          "status": "failed",
+          "status": "passed",
           "title": "AddMovieForm componentinde preventDefault kullanılmış",
-          "duration": 16,
-          "failureMessages": [
-            "store.getState is not a function"
-          ],
-          "location": {
-            "line": 1076,
-            "column": 51
-          }
+          "duration": 131,
+          "failureMessages": []
         }
       ],
-      "startTime": 1714481776545,
-      "endTime": 1714481776691,
-      "status": "failed",
+      "startTime": 1714502016193,
+      "endTime": 1714502023558,
+      "status": "passed",
       "message": "",
-      "name": "/home/projects/vitejs-vite-zvrcsr/src/__tests__/index.test.jsx"
+      "name": "C:/Users/fevzi/Documents/workintech/Projeler/s10-g2-t1/src/__tests__/index.test.jsx"
     }
   ]
 }
